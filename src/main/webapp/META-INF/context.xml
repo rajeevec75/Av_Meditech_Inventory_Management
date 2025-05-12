@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 100 GB -->
+    
+
+<Context path="/">
+    <Resources cachingAllowed="true" cacheMaxSize="102400000" />
+    <!-- Other configurations -->
+</Context>
+
+
+
+
+
